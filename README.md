@@ -15,6 +15,11 @@
 | 정원 | 빌더 포함 총 7명 |
 | 주요 교재 | 『행동 데이터 분석』 |
 
+## 교재와 실습 자료
+
+- [『행동 데이터 분석』 교보문고](https://product.kyobobook.co.kr/detail/S000202252027): 플로랑 뷔송 지음, 시진 옮김, 한빛미디어.
+- [교재 공식 GitHub: BehavioralDataAnalysis](https://github.com/BuissonFlorent/BehavioralDataAnalysis): 저자가 제공하는 R·Python 예제 코드와 실습 자료.
+
 ## Why this project?
 
 ### AI가 분석하는 시대, 우리는 무엇을 질문하고 판단해야 하는가
